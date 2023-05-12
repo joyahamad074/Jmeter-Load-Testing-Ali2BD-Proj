@@ -18,4 +18,6 @@ Test executed for the below mentioned scenario in server https://ali2bd.com/.
 
 While executed 70 concurrent request, found  7 request got connection timeout and error rate is 0.73%. 
 
+![](images/Jmeter.PNG)
+
 **Summary:** Server can handle almost concurrent 630 API call with almost zero (0) error rate.
